@@ -1,0 +1,17 @@
+{
+"name": "grocery-scraper-mvp",
+"version": "1.0.0",
+"private": true,
+"scripts": {
+"dev": "vercel dev",
+"start": "node server.js"
+},
+"dependencies": {
+"chrome-aws-lambda": "^10.1.0",
+"puppeteer-core": "^19.11.0",
+"node-fetch": "^2.6.7",
+"next": "13.4.4",
+"react": "18.2.0",
+"react-dom": "18.2.0"
+}
+}
